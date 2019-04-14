@@ -1,0 +1,15 @@
+.header {
+    color: rgb(16, 17, 16);
+    font-size: 4vh;
+    margin-bottom: 15px;
+    width: 100%;
+  }
+  
+  .wins-losses {
+    float: right;
+  }
+  
+  .gameName {
+    float: left;
+  }
+  

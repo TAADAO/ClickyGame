@@ -1,0 +1,75 @@
+    
+[
+  {
+    "id": 1,
+    "character": "Cartman",
+    "pictureURL": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/EricCartman.png/220px-EricCartman.png",
+    "timesClicked": 0
+  },
+  {
+    "id": 2,
+    "character": "Kyle",
+    "pictureURL": "http://southparkstudios.mtvnimages.com/shared/characters/kids/kyle-broflovski.png?height=400",
+    "timesClicked": 0
+  },
+  {
+    "id": 3,
+    "character": "Stan",
+    "pictureURL": "https://upload.wikimedia.org/wikipedia/en/a/a7/StanMarsh.png",
+    "timesClicked": 0
+  },
+  {
+    "id": 4,
+    "character": "Kenny",
+    "pictureURL": "http://southparkstudios.mtvnimages.com/shared/characters/kids/kenny-mccormick.png?height=400",
+    "timesClicked": 0
+  },
+  {
+    "id": 5,
+    "character": "Butters",
+    "pictureURL": "http://southparkstudios.mtvnimages.com/shared/characters/kids/butters-stotch.png?height=400",
+    "timesClicked": 0
+  },
+  {
+    "id": 6,
+    "character": "Timmy",
+    "pictureURL": "http://southparkstudios.mtvnimages.com/shared/characters/kids/timmy-burch.png?height=400",
+    "timesClicked": 0
+  },
+  {
+    "id": 7,
+    "character": "Jimmy",
+    "pictureURL": "http://southparkstudios.mtvnimages.com/shared/characters/kids/jimmy-valmer.png?height=400",
+    "timesClicked": 0
+  },
+  {
+    "id": 8,
+    "character": "Randy",
+    "pictureURL": "http://southparkstudios.mtvnimages.com/shared/characters/adults/randy-marsh.png?height=500",
+    "timesClicked": 0
+  },
+  {
+    "id": 9,
+    "character": "Jimbo",
+    "pictureURL": "http://southparkstudios.mtvnimages.com/shared/characters/adults/jimbo-kern.png?height=400",
+    "timesClicked": 0
+  },
+  {
+    "id": 10,
+    "character": "Gerald",
+    "pictureURL": "http://southparkstudios.mtvnimages.com/shared/characters/adults/gerald-broflovski.png?height=400",
+    "timesClicked": 0
+  },
+  {
+    "id": 11,
+    "character": "Mr. Garrison",
+    "pictureURL": "http://southparkstudios.mtvnimages.com/shared/characters/adults/mrgarrison.png?height=400",
+    "timesClicked": 0
+  },
+  {
+    "id": 12,
+    "character": "Satan",
+    "pictureURL": "http://southparkstudios.mtvnimages.com/shared/characters/non-human/satan.png?height=400",
+    "timesClicked": 0
+  }
+]
